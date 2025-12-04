@@ -8,7 +8,7 @@ public class Class1Test
 	@Test
 	public void  Class1() {
 		Reporter.log("WELCOME TO SELENIUM",true);
-		Reporter.log("WELCOME TO SELENIUM",true);
+		Reporter.log("WELCOME TO ADVANCE SELENIUM",true);
 	}
 	
 	
